@@ -50,7 +50,7 @@ Contributions are welcome! Please fork the repo and submit a pull request with y
 
 ## Contact
 
-Questions or feedback? Reach out to turna.fardousi@gmail.com
+Questions or feedback? Reach out to Ni4368265@alphacollege.me
 
 ## Disclaimer
 
