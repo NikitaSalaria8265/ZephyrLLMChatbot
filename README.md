@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ea1fa67c-7a3a-4086-91dd-e09198bad0e9)# ZephyrLLMChatbot for Music App Development
+# ZephyrLLMChatbot for Music App Development
 
 A guide to building a no-cost LLM chatbot specialized in music app development using Hugging Face Spaces and Gradio.
 
